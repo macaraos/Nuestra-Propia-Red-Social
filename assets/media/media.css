@@ -6,7 +6,36 @@
 		margin-top:200px;
 		position: relative;
 	}
-	.fa-user-circle-o{
+
+	.logop{
+		height: auto;
+		width: 54px;
+		bottom: 9px;
+		top: -9px;
+	}
+
+	.a1{
+		height: auto;
+		width: 85px;
+	}
+
+	.fa-globe{
+    position: relative;
+    left: 33px;
+    top: 0;
+	};
+
+	.todo{
+	margin-top:-75px;
+	width: 100%;
+	}
+
+	div .caja-3 {
+		width: 100%;
+	}
+
+	.perfil1 {
+		width: 100%;
 	}
 };
 
@@ -14,5 +43,13 @@
 	#logo1{
 		height:auto;
 		width:50%;
+	}
+
+	.todo {
+		width: 100%;
+	}
+
+	.caja-3 {
+		width: 100%;
 	}
 };
